@@ -2,6 +2,8 @@
 Free Exclusive Dupe Checker For The Game, "Bubble Gum Simulator", Steps Are Showed in "README". So I Suggest You To Read that, And Follow Its Steps.
 
 
+
+
 # How do You use Our Repository?
 
 1. Access to the latest version of BGSDupeChecker: By downloading the repository, I've created for you have access to the latest version of the application or software. This ensures that you have the most up-to-date version with all the latest features, bug fixes, and enhancements.
